@@ -3,6 +3,8 @@ package pro1;
 import com.google.gson.Gson;
 import pro1.apiDataModel.ActionsList;
 
+import java.util.stream.Collectors;
+
 public class Main5 {
 
     public static void main(String[] args) {
